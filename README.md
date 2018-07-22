@@ -43,27 +43,6 @@ beta channel to get access to early builds of Desktop:
  - [macOS](https://central.github.com/deployments/desktop/desktop/latest/darwin?env=beta)
  - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32?env=beta)
 
-## I have a problem with GitHub Desktop
-
-First, please search the [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
-and [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
-to see if your issue hasn't already been reported (it may also be fixed).
-
-There is also a list of [known issues](https://github.com/desktop/desktop/blob/master/docs/known-issues.md)
-that are being tracked against Desktop, and some of these issues have workarounds.
-
-If you can't find an issue that matches what you're seeing, open a [new issue](https://github.com/desktop/desktop/issues/new/choose),
-choose the right template and provide us with enough information to investigate
-further.
-
-## How can I contribute to GitHub Desktop?
-
-The [CONTRIBUTING.md](./.github/CONTRIBUTING.md) document will help you get setup and
-familiar with the source. The [documentation](docs/) folder also contains more
-resources relevant to the project.
-
-If you're looking for something to work on, check out the [help wanted](https://github.com/desktop/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22) label.
-
 ## More Resources
 
 See [desktop.github.com](https://desktop.github.com) for more product-oriented
