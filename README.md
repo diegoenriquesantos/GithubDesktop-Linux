@@ -20,8 +20,9 @@ Thanks to the original author [shiftkey](https://github.com/shiftkey) from [desk
 ## How  can I start the project?
 
 We add some dependencies and put a command short list to fast start the project in Linux environment:
-
+...
 sudo git clone https://github.com/diegoenriquesantos/GithubDesktop-Linux.git
+...
 sudo chmod -R 777 GithubDesktop-Linux/
 cd GithubDesktop-Linux
 yarn install
